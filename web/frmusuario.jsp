@@ -37,7 +37,7 @@
                 <tr>
                     <td>Password</td>
 
-                    <td ><input name="clave" type="password" value="${objeto.clave}" required></td>  
+                    <td ><input name="clave" type="password" value="" required></td>  
  
                 </tr>
                 <tr>
